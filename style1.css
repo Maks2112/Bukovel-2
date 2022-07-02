@@ -58,3 +58,9 @@ a{
 footer{
     background-color: black;
 }
+.foto{
+    text-align: center;
+}
+.index:hover{
+    height: 180px;
+}
